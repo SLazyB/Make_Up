@@ -1,0 +1,11 @@
+Miller-Rabin:
+	31531 - Is prime with 15 iterations
+	520482 - Is not prime with 15 iterations
+	485827 - Is prime with 15 iterations
+	15485863 - Is prime with 15 iterations
+
+Pollard-Rho:
+	31531 - Is prime
+	520482 - Is not prime with divisor of 2
+	485827 - Is prime
+	15485863 - Is prime
